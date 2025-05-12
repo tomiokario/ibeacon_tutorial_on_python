@@ -2,7 +2,7 @@
 
 ## how to start
 
-0. 仮想環境を使いたい場合は，`docs/how_to_use_venv.md`を参照してください
+0. 仮想環境を使いたい場合は，[how_to_use_venv.md](docs/venv/how_to_use_venv.md)を参照してください
 
 1. 依存関係のインストール
 ```
