@@ -9,7 +9,11 @@
 pip install -r requirements.txt
 ```
 
-2. プログラムの実行
+2. 環境のチェック
+```
+python check_env.py
+```
+
+3. プログラムの実行
 ```
 python test6.py
-```
