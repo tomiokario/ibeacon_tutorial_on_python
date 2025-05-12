@@ -1,4 +1,4 @@
-# beaconをPythonから扱う
+# beaconをPythonから扱うためのチュートリアル
 
 ## how to start
 
