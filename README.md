@@ -17,3 +17,4 @@ python check_env.py
 3. プログラムの実行
 ```
 python test6.py
+```
