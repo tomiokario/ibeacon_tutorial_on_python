@@ -16,5 +16,13 @@ python check_env.py
 
 3. プログラムの実行
 ```
-python test6.py
+python xxxx.py
 ```
+
+## ファイル名
+ibeacon_monitor.py
+- 閾値を超えるRSSIが検知されとき，タイムスタンプ，UUID，ビーコン名，RSSIをprintする
+- ctrl + cで終了する
+
+ibeacon_monitor_csv.py
+- 10秒間bluetoothをスキャンして，検出された情報をcsvファイルに保存します
